@@ -1,0 +1,20 @@
+--> Ce este Zoom?
+   Zoom este o aplicație bazată pe Cloud de tip SaaS (Software as a Service) care oferă utilizatorilor un set de facilități de comunicare: conferințe video, trimitere de mesaje și partajarea fișierelor. Începând cu anul 2020, utilizarea softului a înregistrat o creștere semnificativă ca urmare a introducerii măsurilor de carantină adoptate pentru prevenirea pandemiei (COVID-19). Astfel, aplicația este folosită de o mulțime de angajați, grădinițe, școli și universități. În momentul de față (25.09.2020), softul este evaluat la 35 miliarde de dolari [1] și este poziționat pe locul 16 ca cel mai folosit site după clasamentul Alexa [2].
+
+--> Istoric:
+   Compania Zoom [3] a fost fondată de Eric Yuan (fost vicepreședinte corporativ Cisco Webex) în 2011. Plecând din Cisco în aprilie 2011, împreună cu alți 40 de angajați, Eric Yuan a demarat compania proprie Saasbee, Inc. Compania a fost redenumită ca ”Zoom” în mai 2020 sub influența cărții ”Zoom City” de Thacher Hurd. În septembrie 2012 a fost lansată prima versiune beta cu o limită de 15 persoane într-o conferință video. În noiembrie 2012, primul client Zoom a devenit universitatea Standford. La sfărșitul primei luni de lansare, aplicația a avut un număr de 400 mii de utilizatori, iar la sfărșitul anului 2013 - 1 milion de utilizatori. În prezent, aplicația are 300 milioane de utilizatori activi pe zi.
+
+--> Servicii oferite:
+   Zoom oferă o gamă largă de posibilități: conferințe video, trimitere de mesaje, partajarea fișierelor, webinare și chiar magazine online. 
+
+--> Preț servicii:
+   Există oferte gratis, profesionale (149$ pe an), business (199$ pe an) și pentru companii (199$ pe an) [4].
+
+--> Venit pe an:
+   Zoom Video Communications, Inc. (Zoom) are sediul în San Jose, California, SUA și are un venit estimat la 622 milioane de dolari (2019) [3].
+
+--> Bibliografie:
+   [1] https://www.businessinsider.com/meet-zoom-billionaire-eric-yuan-career-net-worth-life
+   [2] https://www.alexa.com/siteinfo/zoom.us
+   [3] https://en.wikipedia.org/wiki/Zoom_Video_Communications#cite_note-1
+   [4] https://zoom.us/pricing
