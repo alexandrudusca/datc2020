@@ -1,0 +1,14 @@
+{
+    "installed": {
+        "client_id": "1033594019091-fdv723t2qpvl276s0alj8kn3ut0flp15.apps.googleusercontent.com",
+        "project_id": "datc-2020",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "JcZRFyQGpKnCq2PMcR8SDaUd",
+        "redirect_uris": [
+            "urn:ietf:wg:oauth:2.0:oob",
+            "http://localhost"
+        ]
+    }
+}
